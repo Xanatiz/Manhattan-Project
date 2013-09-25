@@ -4,7 +4,7 @@
     <list default="true" id="06f655a2-2d3b-404b-a20f-88e28df8baeb" name="Default" comment="" />
     <ignored path="Manhattan Project.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/TestClass.java" changelist="06f655a2-2d3b-404b-a20f-88e28df8baeb" time="1380103200582" ignored="false" />
+    <file path="/TestClass.java" changelist="06f655a2-2d3b-404b-a20f-88e28df8baeb" time="1380103916050" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +77,7 @@
       <file leaf-file-name="TestClass.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/TestClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="4" selection-start="174" selection-end="186" vertical-scroll-proportion="0.17465754">
+            <state line="6" column="44" selection-start="214" selection-end="214" vertical-scroll-proportion="0.17465754">
               <folding />
             </state>
           </provider>
@@ -379,7 +379,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TestClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="4" selection-start="174" selection-end="186" vertical-scroll-proportion="0.17465754">
+        <state line="6" column="44" selection-start="214" selection-end="214" vertical-scroll-proportion="0.17465754">
           <folding />
         </state>
       </provider>

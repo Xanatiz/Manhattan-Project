@@ -64,10 +64,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Bomberman.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Bomberman.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Bomberman.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="170" selection-end="170" vertical-scroll-proportion="0.09615385">
+            <state line="6" column="0" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestClass.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/TestClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="0" selection-start="172" selection-end="172" vertical-scroll-proportion="0.1124197">
               <folding />
             </state>
           </provider>
@@ -371,7 +380,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Bomberman.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="170" selection-end="170" vertical-scroll-proportion="0.09615385">
+        <state line="6" column="0" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="172" selection-end="172" vertical-scroll-proportion="0.1124197">
           <folding />
         </state>
       </provider>
